@@ -7,3 +7,6 @@
 ![img](https://raw.githubusercontent.com/S4WA/files/master/Dzd81FgVAAAILFM.jpg)  
 ### org page  
 ![img](https://raw.githubusercontent.com/S4WA/files/master/DznV1XkUcAAE2dL.jpg)
+
+### Q. ストアの名前は略しているのにソースのリポジトリは略してないの？
+A. 触れないでください。
